@@ -1,0 +1,21 @@
+
+A. Masing-masih Peran ANggota Tim :
+
+1. Fauzein Mulya Warman
+   - Menghandle Semua API BACKEND
+   - Membuat Postman Collection
+   - Membuat ERD
+   
+2. Ahmad Zaini Nijar
+   - Menghandle Semua FRONTEND
+   - Melakukan Hosting dan konfigurasi diHosting
+   
+
+B. Link Hosting:
+	- Backend: secs-api.kamari.web.id
+	- Frontend: secs-web.kamari.web.id
+	
+
+C. Link Presentasi
+	- Fauzein Mulya Warman (Backend) : https://youtu.be/BaFGaZtlhW4
+	- Ahmad Zaini Nijar (Frontend) : https://youtu.be/zQifqUoJKGA
